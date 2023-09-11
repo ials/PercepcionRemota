@@ -16,3 +16,8 @@ programadas serán capaces de:
 - Procesar imágenes de teledetección.
 - Comprender las técnicas esenciales de procesamiento y análisis de imágenes.
 - Obtener acceso a servicios en la nube y realizar procesos básicos.
+
+## DURACION
+
+Este curso tiene una duración de veinte (20) horas, las cuales se dictarán 
+en cuatro sesiones teórico-practicas de 5 horas cada una.
